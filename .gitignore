@@ -179,3 +179,5 @@ app/public/wp-content/plugins/all-in-one-wp-migration/lib/view/updater/message.p
 app/public/wp-content/plugins/all-in-one-wp-migration/lib/view/updater/modal.php
 app/public/wp-content/plugins/all-in-one-wp-migration/storage/index.html
 app/public/wp-content/plugins/all-in-one-wp-migration/storage/index.php
+php-fpm.log
+error.log

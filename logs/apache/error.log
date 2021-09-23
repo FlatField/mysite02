@@ -1,3 +1,0 @@
-AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using yuta-hiranonoiMac.local. Set the 'ServerName' directive globally to suppress this message
-[Sat Sep 04 05:45:59.736588 2021] [mpm_event:notice] [pid 23084:tid 4645023232] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
-[Sat Sep 04 05:45:59.737094 2021] [core:notice] [pid 23084:tid 4645023232] AH00094: Command line: '/Users/yuta/Library/Application Support/Local/lightning-services/apache-2.4.43+6/bin/darwin/bin/httpd -D FOREGROUND -f /Users/yuta/Library/Application Support/Local/run/Ib7ADXF2c/conf/apache/apache2.conf'
